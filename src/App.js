@@ -75,7 +75,7 @@ const App = () => {
 						<ExpenseTotal />
 					</div>
           <h5 className='mt-3 alert alert-danger p-2'>Contact Me  </h5>
-          <p><a href="mailto:balajireddy.contact@gmail.com">Send email</a></p>
+          <p><a href="mailto:sumanthabd143@gmail.com">Send email</a></p>
       </div>
 		</AppProvider>
 	);
