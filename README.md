@@ -1,7 +1,7 @@
 
 #Employee-Monthly-Salary-UserInterface
 
-To run:try this
+To run:
 
 ```
 Download the Zip
