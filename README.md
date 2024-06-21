@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# myntra-
-=======
+
 #Employee-Monthly-Salary-UserInterface
 
 To run:
